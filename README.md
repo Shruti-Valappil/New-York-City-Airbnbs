@@ -1,1 +1,4 @@
 # Housing-price-prediction
+
+## About dataset
+This AirBNB dataset provides a comprehensive look at the listings available in Austin, Texas. With over 100 columns of data, this dataset contains information about listing locations and hosts, amenities offered, listing requirements such as license and profile pictures, detailed review scores on different criteria such as cleanliness and communication effectiveness as well as prices for nightly costs. With full access to dates of first reviews and last scrapes of the calendar for availability planning purposes for guests looking to book their stay or hosts managing their space; this offers an impressive set of insights into what AirBNB experience entails in Austin. Get ready to explore all the wonderful possibilities that are hidden inside AirBNB Austin!
